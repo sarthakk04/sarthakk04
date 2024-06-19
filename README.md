@@ -4,19 +4,18 @@
 
 
 - 🌱 I’m currently learning **GSAP , NextJS , C#**
-
+                                                                                                     
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **sartech2005@gmail.com**
-
-<img src = "sss.gif" width = "300" height = "200" alt = "Sarthak Shinde">
+- 📫 How to reach me **sartech2005@gmail.com**                                                                                 
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sarthak-shinde-5906802ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-shinde-5906802ab" height="30" width="40" /></a>
-<a href="https://instagram.com/___.sarthakkk.___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___.sarthakkk.___" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@sarthakshinde2570" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sarthakshinde2570" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sarthak0416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarthak0416" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sarthak-shinde-5906802ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-shinde-5906802ab" height="30" width="40" padding = "10px" /></a>
+<a href="https://instagram.com/___.sarthakkk.___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___.sarthakkk.___" height="30" width="40" padding = "10px" /></a>
+<a href="https://www.youtube.com/c/@sarthakshinde2570" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sarthakshinde2570" height="30" width="40" padding = "10px"  /></a>
+<a href="https://www.leetcode.com/sarthak0416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarthak0416" height="30" width="40" padding = "10px" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

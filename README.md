@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sarthak Shinde</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<img src = "https://i.gifer.com/5eKX.gif" alt = "Sarthak Shinde">
+
 
 - 🌱 I’m currently learning **GSAP , NextJS , C#**
 
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **sartech2005@gmail.com**
+
+<img src = "sss.gif" width = "300" height = "200" alt = "Sarthak Shinde">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sarthak Shinde</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">Tech Enthusiast</h3>
 
 
 
-- 🌱 I’m currently learning **GSAP , NextJS , C#**
-                                                                                                     
-- 💬 Ask me about **MERN Stack**
-
+- 🌱 I’m currently learning **Machine Learning , Automation**
+                                                                                                    
 - 📫 How to reach me **sartech2005@gmail.com**                                                                                 
  
 

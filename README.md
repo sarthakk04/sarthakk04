@@ -1,15 +1,20 @@
-<!-- Futuristic Banner -->
+<!-- Futuristic Aurora Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=Sarthak%20Shinde&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:002b1e,50:014d34,100:00ff9d&height=250&section=header&text=Sarthak%20Shinde&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&font=serif" alt="header"/>
 </p>
 
-# 👋 Hi, I'm Sarthak Shinde  
+<div align="center" style="font-family: 'Georgia', serif; font-size: 26px; font-weight: bold;">
+  👋 Hi, I'm Sarthak Shinde
+</div>
 
-<h3 align="center">🚀 Full-Stack Developer | 🤖 Tech Enthusiast | 🔬 ML Explorer</h3>
+<div align="center" style="font-family: 'Courier New', monospace; font-size: 18px;">
+  🚀 Full-Stack Developer | 🤖 Tech Enthusiast | 🔬 ML Explorer
+</div>
 
 ---
 
-## 🌱 Currently Exploring
+## ![🌱](https://img.shields.io/badge/-Currently%20Exploring-014d34?style=for-the-badge&logoColor=white)
+
 - Machine Learning  
 - Automation  
 - Retrieval-Augmented Generation (RAG)  
@@ -18,7 +23,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## ![🌐](https://img.shields.io/badge/-Connect%20With%20Me-014d34?style=for-the-badge&logoColor=white)
 
 <p align="center">
   <a href="https://linkedin.com/in/sarthak-shinde-5906802ab" target="_blank">
@@ -37,7 +42,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## ![🛠](https://img.shields.io/badge/-Languages%20&%20Tools-014d34?style=for-the-badge&logoColor=white)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,postgres,python,js,html,css,bootstrap,figma,photoshop,c,cpp" />
@@ -45,7 +50,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## ![📊](https://img.shields.io/badge/-GitHub%20Analytics-014d34?style=for-the-badge&logoColor=white)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarthakk04&show_icons=true&theme=tokyonight&count_private=true" height="180" />
@@ -58,15 +63,16 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## ![🏆](https://img.shields.io/badge/-GitHub%20Trophies-014d34?style=for-the-badge&logoColor=white)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarthakk04&theme=radical&margin-w=10&margin-h=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sarthakk04&theme=algolia&margin-w=10&margin-h=10&no-frame=true" />
 </p>
+
 
 ---
 
-## 🐍 Contribution Snake
+## ![🐍](https://img.shields.io/badge/-Contribution%20Snake-014d34?style=for-the-badge&logoColor=white)
 
 <p align="center">
   <picture>
@@ -76,14 +82,13 @@
   </picture>
 </p>
 
-
 ---
 
-## 🔥 Fun Badges
+## ![🔥](https://img.shields.io/badge/-Fun%20Badges-014d34?style=for-the-badge&logoColor=white)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code%20Blooded-💻-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Lover-❤️-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Lover-❤-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Always%20Learning-📚-orange?style=for-the-badge" />
 </p>
 
@@ -95,8 +100,11 @@
 
 ---
 
-✨ _“Shipping small, delightful features daily.”_ — **Sarthak**
+✨ <div align="center" style="font-family: 'Georgia', serif; font-size: 18px;">“The best is yet to be..” — <b>Sarthak</b></div>
 
+---
+
+<!-- Aurora Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:002b1e,50:014d34,100:00ff9d&height=120&section=footer"/>
 </p>

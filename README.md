@@ -69,7 +69,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/sarthakk04/sarthakk04/output/github-contribution-grid-snake.gif" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/sarthakk04/sarthakk04/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 

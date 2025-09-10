@@ -69,7 +69,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  ![snake gif](https://github.com/sarthakk04/sarthakk04/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://raw.githubusercontent.com/sarthakk04/sarthakk04/output/github-contribution-grid-snake.gif)
 </p>
 
 ---
